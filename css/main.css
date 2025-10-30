@@ -150,7 +150,7 @@ header {
 .hero {
   height: 100vh;
   background: linear-gradient(rgba(26, 58, 95, 0.8), rgba(26, 58, 95, 0.8)),
-    url("../assets/fi\ logo1.jpg");
+    url("../assets/logofi.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -489,3 +489,4 @@ footer {
     font-size: 2.2rem;
   }
 }
+
